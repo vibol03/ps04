@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 20, 2015, 3:53:15 PM
+    Author     : vibol
+*/
+
+/* all pages in the side share this same backgroun*/
+body{
+    background-image: url("../resource/umllogo.png");
+    background-repeat: no-repeat;
+    background-size: 400px 600px;
+    background-position:center;
+    background-attachment: fixed;
+    background-color: gray;
+}
+
+/* This is used mainly for the tabs in the homepage */
+body #tab{
+    background-color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.navigation-wrapper {
+    margin: 0 7px;
+    position: relative;
+}
+
+.wrap-centent{
+    display: inline-block;
+}
+
+/*Homepage logo*/
+#logo{
+    font-size: 50px;
+}
+
+/* <a> tag gets the color black when hovered over */
+a:hover{
+    color: black;
+}

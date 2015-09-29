@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+
+<!--
+    File: /~plee/public_html/ps02/ps02.html
+    Assignment 2: Creating my first html page.
+    My direction: I'm planning on building a website to show all of my night sky\
+ pictures
+    Updated 09/10/2015 8:06 PM
+-->
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+        <title>My Page</title>
+    </head>
+<body background="../resource/IMG_4107.jpg">
+    <div class="header">
+   
+    </div>
+    
+    <div class="body">
+   
+    </div>
+<body/>
+</html>
